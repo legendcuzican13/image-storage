@@ -1,0 +1,8 @@
+```
+on inventory open:
+    type of event-inventory is chest inventory
+    block below holder of event-inventory is not bedrock
+    clear the event-inventory
+    add 1 iron sword or 1 diamond sword or 1 iron chestplate or 1 iron leggings or 1 iron boots or 1 bow or 5 arrows or 8 snowballs to event-inventory
+    set block below holder of event-inventory to bedrock
+```
